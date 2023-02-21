@@ -1,2 +1,2 @@
-# dev-bible-json
+# dev-bible
  bible convert json
